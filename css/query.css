@@ -28,3 +28,6 @@ h1{
   text-align: center;
   padding-bottom: 20px;
 }
+.cheat{
+  color: hsl(0, 100%, 50%);
+}
