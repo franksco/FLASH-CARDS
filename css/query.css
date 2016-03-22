@@ -1,5 +1,6 @@
-.term{
-  
+body{
+ font-family: 'Permanent Marker', cursive;
+
 }
 .cheat{
   display:none;
@@ -7,4 +8,23 @@
 ul{
   list-style-type: none;
 
+}
+li{
+  padding-right:35px;
+  padding-top: 60px;
+}
+
+#col {
+
+  height:200px;
+  border-radius:10%;
+  margin:auto;
+  text-align: center;
+}
+.container{
+  width:1200;
+}
+h1{
+  text-align: center;
+  padding-bottom: 20px;
 }
