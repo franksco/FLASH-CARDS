@@ -3,7 +3,7 @@
 ##Description
 Flashcard web app that allows you to have questions on one side and answers on the other.
 
-#By Cory Franks on 
+#By Cory Franks on 03/21/2016
 
 ## Setup/Installation Requirements
 
